@@ -30,7 +30,7 @@ namespace Calculs
                 // traitement des choix
                 switch (choix)
                 {
-                    case "1": // addition
+                    case "1": // addition prout
                         val1 = rand.Next(1, 10);
                         val2 = rand.Next(1, 10);
                         // saisie de la réponse
